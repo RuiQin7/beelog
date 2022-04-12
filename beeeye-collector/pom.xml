@@ -19,7 +19,7 @@
 
         <elasticsearch.version>2.3.3</elasticsearch.version>
         <jodatime.vserison>2.9.9</jodatime.vserison>
-        <hadoop.version>2.6.0-cdh5.4.4</hadoop.version>
+        <hadoop.version>3.2.3</hadoop.version>
         <commonslang.version>2.6</commonslang.version>
     </properties>
 
